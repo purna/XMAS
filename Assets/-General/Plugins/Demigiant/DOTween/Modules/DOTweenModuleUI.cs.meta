@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: af71ff856ccd049699db0b05e6e15cd0
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27676
+  packageName: DOTween (HOTween v2)
+  packageVersion: 1.2.765
+  assetPath: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModuleUI.cs
+  uploadId: 642066

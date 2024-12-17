@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3a9752b0c8e144801967e6897679604b, type: 3}
+  m_Name: vHierarchy Data
+  m_EditorClassIdentifier: 
+  sceneDatas_byGuid:
+    keys:
+    - 
+    - a79ad91dfa16445428d642a89c604e5e
+    - 42823a316177342469a790ae98ebb6db
+    - 01a14bb1667ea2d46b1b38aade35a91f
+    values:
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-0-00000000000000000000000000000000-0-0
+        values:
+        - colorIndex: 1
+          iconNameOrGuid: 
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-422829715-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-1698515218-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-2138545194-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-503478967-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-988269911-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-891119423-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-1404371140-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-1431246437-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-1766801006-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-2672979640364825752-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-323770166335454842-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-7565522433106420615-0
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-919132149155446097-1414773622
+        - globalObjectIdString: GlobalObjectId_V1-2-a79ad91dfa16445428d642a89c604e5e-1614974090-0
+        values:
+        - colorIndex: 1
+          iconNameOrGuid: Favorite
+        - colorIndex: 5
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 2
+          iconNameOrGuid: TrailRenderer Icon
+        - colorIndex: 9
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 0
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 0
+          iconNameOrGuid: SphereCollider Icon
+        - colorIndex: 5
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 5
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 0
+          iconNameOrGuid: SphereCollider Icon
+        - colorIndex: 8
+          iconNameOrGuid: Favorite
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-422829715-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-2672979640364825752-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-503478967-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-988269911-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-7565522433106420615-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-323770166335454842-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-891119423-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-1404371140-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-1614974090-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-29925734-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-808494757-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-883381229-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-1829298136-0
+        - globalObjectIdString: GlobalObjectId_V1-2-42823a316177342469a790ae98ebb6db-1268311178-0
+        values:
+        - colorIndex: 1
+          iconNameOrGuid: Favorite
+        - colorIndex: 5
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 2
+          iconNameOrGuid: TrailRenderer Icon
+        - colorIndex: 9
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 1
+          iconNameOrGuid: Rigidbody Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 0
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 1
+          iconNameOrGuid: 
+        - colorIndex: 2
+          iconNameOrGuid: ParticleSystem Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 6
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 8
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 7
+          iconNameOrGuid: EventSystem Icon
+    - goDatas_byGlobalId:
+        keys:
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-422829715-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-2672979640364825752-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-503478967-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-988269911-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-7565522433106420615-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-323770166335454842-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-891119423-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-1404371140-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-1614974090-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-29925734-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-808494757-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-883381229-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-1829298136-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-1268311178-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-413251638-0
+        - globalObjectIdString: GlobalObjectId_V1-2-01a14bb1667ea2d46b1b38aade35a91f-881073816-0
+        values:
+        - colorIndex: 1
+          iconNameOrGuid: Favorite
+        - colorIndex: 5
+          iconNameOrGuid: AvatarMask On Icon
+        - colorIndex: 2
+          iconNameOrGuid: TrailRenderer Icon
+        - colorIndex: 9
+          iconNameOrGuid: Camera Icon
+        - colorIndex: 1
+          iconNameOrGuid: Rigidbody Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 0
+          iconNameOrGuid: DirectionalLight Icon
+        - colorIndex: 0
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 1
+          iconNameOrGuid: 
+        - colorIndex: 2
+          iconNameOrGuid: ParticleSystem Icon
+        - colorIndex: 1
+          iconNameOrGuid: PreMatCube
+        - colorIndex: 6
+          iconNameOrGuid: Settings Icon
+        - colorIndex: 8
+          iconNameOrGuid: LightProbes Icon
+        - colorIndex: 7
+          iconNameOrGuid: EventSystem Icon
+        - colorIndex: 0
+          iconNameOrGuid: Light Icon
+        - colorIndex: 3
+          iconNameOrGuid: AudioClip Icon

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9efacea81fef747f384bdf1a3f349278
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 27676
+  packageName: DOTween (HOTween v2)
+  packageVersion: 1.2.765
+  assetPath: Assets/Plugins/Demigiant/DOTween/Modules/DOTweenModulePhysics2D.cs
+  uploadId: 642066
