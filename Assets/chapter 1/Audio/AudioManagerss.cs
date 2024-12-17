@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class AudioManager : MonoBehaviour
+public class AudioManagersss : MonoBehaviour
 {
     public GameObject audioPrefab;
 

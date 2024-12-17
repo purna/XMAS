@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+namespace chapter4{
+
+
+
 public class AudioManager : MonoBehaviour
 {
     public AudioClip backgroundMusic;  // The audio clip to play
@@ -64,4 +68,5 @@ public class AudioManager : MonoBehaviour
             audioSource.volume = volume;
         }
     }
+}
 }

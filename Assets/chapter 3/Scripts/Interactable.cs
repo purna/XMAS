@@ -1,6 +1,8 @@
 using Sirenix.OdinInspector;
 using UnityEngine;
 
+namespace chapter3{
+
 public class Interactable : MonoBehaviour
 {
     [PropertyOrder(1000)] public bool interactable = false;
@@ -22,4 +24,5 @@ public class Interactable : MonoBehaviour
     {
         // Runs when E is Released on the Object
     }
+}
 }

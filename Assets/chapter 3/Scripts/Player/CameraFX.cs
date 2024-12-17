@@ -7,6 +7,10 @@ using UnityEngine;
 using UnityEngine.InputSystem;
 using VInspector;
 
+
+namespace chapter3{
+
+
 public class CameraFX : MonoBehaviour
 {
     public float TargetDutch;
@@ -155,4 +159,5 @@ public class CameraFX : MonoBehaviour
         TargetShakeAmplitude = 0f;
         TargetShakeFrequency = 0f;
     }
+}
 }
