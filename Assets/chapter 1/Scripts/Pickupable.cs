@@ -61,14 +61,14 @@ public class Pickupable : Interactable
         }
     }
 
-    public override void MouseOver()
+    public  void MouseOver()
     {
         // Runs when the mouse Hovers Over this
         hovering = true;
         uI.keyHover.SetText("Grab Key");
     }
 
-    public override void MouseExit()
+    public  void MouseExit()
     {
         // Runs when the mouse Exits this
         hovering = false;

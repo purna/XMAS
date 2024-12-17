@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Interactable : MonoBehaviour
+public class Interactable2 : MonoBehaviour
 {
     public virtual void MouseOver()
     {

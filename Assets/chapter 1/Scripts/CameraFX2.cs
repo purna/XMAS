@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class CameraFX : MonoBehaviour
+public class CameraFX2 : MonoBehaviour
 {
     public GameObject lookingTarget;
     public GameObject lookingTargetStorage;

@@ -22,4 +22,17 @@ public class Interactable : MonoBehaviour
     {
         // Runs when E is Released on the Object
     }
+
+        public virtual void MouseOver()
+    {
+        // Runs when the mouse Hovers Over this
+    }
+
+    public virtual void MouseExit()
+    {
+        // Runs when the mouse Exits this
+    }
+
+
+    
 }
