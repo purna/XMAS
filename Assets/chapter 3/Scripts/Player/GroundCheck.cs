@@ -1,6 +1,7 @@
 using System;
 using UnityEngine;
 
+
 public class GroundCheck : MonoBehaviour
 {
     public GameObject GroundObject;
@@ -67,4 +68,6 @@ public class GroundCheck : MonoBehaviour
         GroundObject = other.gameObject;
         Grounded = true;
     }
+
 }
+

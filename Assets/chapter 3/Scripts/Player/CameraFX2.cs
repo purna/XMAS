@@ -8,8 +8,6 @@ using UnityEngine.InputSystem;
 using VInspector;
 
 
-namespace chapter3{
-
 
 public class CameraFX : MonoBehaviour
 {
@@ -159,5 +157,4 @@ public class CameraFX : MonoBehaviour
         TargetShakeAmplitude = 0f;
         TargetShakeFrequency = 0f;
     }
-}
 }
