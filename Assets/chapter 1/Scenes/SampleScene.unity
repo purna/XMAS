@@ -562,8 +562,8 @@ MonoBehaviour:
     m_ActionName: PlayerMovement/Look
   - m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 330585549}
-        m_TargetAssemblyTypeName: CameraFX, Assembly-CSharp
+      - m_Target: {fileID: 330585551}
+        m_TargetAssemblyTypeName: CameraFX2, Assembly-CSharp
         m_MethodName: OnInteract
         m_Mode: 0
         m_Arguments:
@@ -1552,7 +1552,7 @@ GameObject:
   - component: {fileID: 330585545}
   - component: {fileID: 330585547}
   - component: {fileID: 330585548}
-  - component: {fileID: 330585549}
+  - component: {fileID: 330585551}
   - component: {fileID: 330585550}
   m_Layer: 0
   m_Name: Main Camera
@@ -1705,18 +1705,6 @@ MonoBehaviour:
       m_PostInfinity: 2
       m_RotationOrder: 4
   CustomBlends: {fileID: 0}
---- !u!114 &330585549
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 330585543}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ab8dd94d4432949488974b172d91f268, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!81 &330585550
 AudioListener:
   m_ObjectHideFlags: 0
@@ -1725,6 +1713,21 @@ AudioListener:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 330585543}
   m_Enabled: 1
+--- !u!114 &330585551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 330585543}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3831efea027b54e14a36ddc7f12c8d04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lookingTarget: {fileID: 0}
+  lookingTargetStorage: {fileID: 0}
+  cam: {fileID: 330585545}
 --- !u!64 &332311469
 MeshCollider:
   m_ObjectHideFlags: 0

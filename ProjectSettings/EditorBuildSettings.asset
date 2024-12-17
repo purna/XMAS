@@ -6,11 +6,233 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/chapter 1/Scenes/SampleScene.unity
+    guid: 854c93693e8904487ac08e9955e2d73b
+  - enabled: 1
+    path: Assets/chapter 2/Scenes/level2.unity
+    guid: eeed6aafda9ea40c9a1d16dae6938f2f
+  - enabled: 1
     path: Assets/chapter 3/Scenes/Parkour Awesome.unity
     guid: 01a14bb1667ea2d46b1b38aade35a91f
   - enabled: 1
-    path: Assets/chapter 3/Scenes/SampleScene.unity
-    guid: 42823a316177342469a790ae98ebb6db
+    path: Assets/chapter 4/Scenes/Main Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Scene1.unity
+    guid: ab4484b10db99744cbbc77d857aff320
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Scene2.unity
+    guid: 4fda8de8b04bebf4c86316f4bb350edd
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Scene3.unity
+    guid: 8d52babbb9cbb4449be3568739e9d85c
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Scene4.unity
+    guid: 7ce2a33be86a5a9488b3eb9819475bab
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Scene4 - First Choice.unity
+    guid: 0d0a2d996fe54b04c8c28a6aba180439
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/SceneHuh.unity
+    guid: 2e889a50a213589418e0c61e53f1c707
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Intervene/Scene1ca.unity
+    guid: ad49f677e7469514eb9286b3902663bc
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Intervene/Scene2ca.unity
+    guid: cc3fa4f163f73ff47afc5f705d1eb740
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Intervene/Scene3ca.unity
+    guid: 85af39b0596bc514aaf6731963a6f51d
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Intervene/Scene4ca.unity
+    guid: f17d96f95c22e1c46b8e5dfcfbeb06c6
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene1cb.unity
+    guid: f9747902b98ffa34881ed7d8eed5b112
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene2cb.unity
+    guid: 18c0dfaec65a6be449759892b70c756b
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene3cb.unity
+    guid: e2a471ae913fb8b40bdaa2df88bab7e8
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene4cb.unity
+    guid: 9cc961f85963bff4d93f6e8c55655dee
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene5cb.unity
+    guid: 61a9cba9bd7e5414cb2904486c26459a
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene6cb.unity
+    guid: 54131bebab7f4af40b8a7cc0001f2ec0
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene7cb.unity
+    guid: 83ac8306e5bba904db37555d8369598d
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene8cb.unity
+    guid: 8c07a253eeb669d4e9b12d567d06dbcb
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene9cb.unity
+    guid: e67f90b0f1111194f924ecfec6e6a514
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene10cb.unity
+    guid: fae5485e2d127c5478bf2181545793fe
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene11cb.unity
+    guid: 3ccd6b313f295d146a6ab3eaa11632f9
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Scene12cb.unity
+    guid: c3deafa769023384496d4bfb5739c7b9
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/LeaveIt/Win.unity
+    guid: c55032ced98e038488c571b59c79f2de
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Scene1c.unity
+    guid: 74e740c8c46d0aa428b0f0c98296b270
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Scene2c.unity
+    guid: 56c90626f4472ad4183815910048d2a5
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Scene3c.unity
+    guid: 67268252598260d4c8f87f23faea11d2
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/BotchedQueens/Scene4c.unity
+    guid: 983533132ffce0741a9d0eef661914eb
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene1aa.unity
+    guid: 76f237cd62cbe3d47972763a4cfb3a16
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene2aa.unity
+    guid: 5eb2b939db518c246ad2959a85715cde
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene3aa.unity
+    guid: a5be373734779dc4aa2beaf7b48155bc
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene4aa.unity
+    guid: f4fc597585515034cab5fbba4b76f2ce
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene5aa.unity
+    guid: 2a7b5acdd88bf31449ef91f181649881
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene6aa.unity
+    guid: dc35ca39ac174244ca00c5266cb728eb
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene7aa.unity
+    guid: 24ca1c489bb8ef14386e02b11246c4af
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/BrentaPerforming/Scene8aa.unity
+    guid: 55e1cbaebad0ee1469c811c7d3a992b9
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow.unity
+    guid: 02c951469ac39de4cb3b41725caf128b
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 1.unity
+    guid: 39613f44bd284ac4fa134ce5c7fa5ff6
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 2.unity
+    guid: cbe2447821fc7144491bc7be73dfd866
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 3.unity
+    guid: e7f4f441138f85349824c3643067c826
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 4.unity
+    guid: 1ebaf2a3acae3f940b3a0b2c20120ac2
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 5.unity
+    guid: 7cb630dbc89a4aa40920f366c27ea257
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 6.unity
+    guid: 503182353d47021448217bb58267d6bc
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Concert/Wow 7.unity
+    guid: 762f3eba3d2964a4e8c828486be5daba
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Scene1ab.unity
+    guid: 1374784bb3fc1234a98f3266d4d201db
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Scene2ab.unity
+    guid: 0c036ab805caeee4483f654a1dedaf4a
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Scene3ab.unity
+    guid: 5031d8e7db4db4e49b59d2b39609b390
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/ScroogePerformance/Scene4ab.unity
+    guid: 914a422cf1c82b4488dc4ed401c90d0c
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene5a.unity
+    guid: ed4a43209d295eb49baa5fa2c61848d0
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene6a.unity
+    guid: e0f29b7010f70534f974aa0a150d177b
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene7a.unity
+    guid: 07c2180f2bc7092449aa7b669c2037fd
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene8a.unity
+    guid: 870de673d59a7a64b8fd7defddc704d5
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene9a.unity
+    guid: f2fe11be8b1f45643b96c945c716bc4c
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene10a.unity
+    guid: e4c5e6760289d014b9c9c16b7dce27ae
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice1/Scene11a.unity
+    guid: cd37a00c1c8899845b23a203aa15985d
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/ManGlowup/Scene1bb.unity
+    guid: 330d5000f41985344a0ab5e67d9d6cf3
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/ManGlowup/Scene2bb.unity
+    guid: 5b05603c23a4d69408e0259ee139c43f
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/ManGlowup/Scene3bb.unity
+    guid: 5135b7cd82dc45e43bf9e894420cd4c8
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/ManGlowup/Scene4bb.unity
+    guid: 049e56e9dc2069544ac0ffb4ff0c6651
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene1ba.unity
+    guid: 4b11df9a0f636214691dd62e64376c84
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene2ba.unity
+    guid: 05f9ab70cde0b384caa44522c4730f4e
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene3ba.unity
+    guid: ad01cc983a55e484487f78f9ce64c42e
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene4ba.unity
+    guid: 77a8854f11c264948bc84e57dce8cd1d
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene5ba.unity
+    guid: 1b71c6138cbfe0941b83d3e208f49e7f
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/WomanGlowup/Scene6ba.unity
+    guid: de6a81fdfe74da74dbf17ae6829c5832
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene5b.unity
+    guid: f0d57106ecbfed545aada37d47b41d13
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene6b.unity
+    guid: 32bc9dec85741f0498a92b68a3641b62
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene7b.unity
+    guid: 31f7e19e8000e5e4f99ed5de4d962697
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene8b.unity
+    guid: 21160ff7908ff1749a13e92fbf32dd10
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene9b.unity
+    guid: 940e2b68eaf8d974f88961f3715e5b4b
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene10b.unity
+    guid: 50bd8bff48cb8da458620beebc6ed147
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene11b.unity
+    guid: bca7135ff9be0cb4db989f16b351a1fa
+  - enabled: 1
+    path: Assets/chapter 4/Scenes/Choice2/Scene12b.unity
+    guid: 3d2be324fc87b1c418757699463a1772
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
